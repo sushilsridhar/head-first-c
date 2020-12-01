@@ -1,2 +1,2 @@
 # head-first-c
-Implemented concepts explained in head first C book.
+Implemented concepts in the book head first C.
